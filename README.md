@@ -2,8 +2,6 @@
 
 A simple, command-line tool for Linux users to download the latest official Fedora ISO, verify its integrity, and create a bootable USB drive.
 
-<img src="screenshot.png"/>
-
 -----
 
 ## ⚠️ CRITICAL WARNING ⚠️
